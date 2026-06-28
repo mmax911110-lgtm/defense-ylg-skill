@@ -1,0 +1,10 @@
+# PDF / EPUB 不提交（版权文件）
+source/corpus/*.pdf
+source/book/*.pdf
+source/book/*.epub
+source/book/*.EPUB
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.tmp
