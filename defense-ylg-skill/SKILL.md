@@ -28,6 +28,21 @@ description: "中文祖安反击文案 skill。底层语言来自吉吉国句式
 - 空耳/谐音替代直白脏话：我阐述你的梦（操你妈）、一德格拉米（NMLGB）、萨米（你妈死了）
 - 一次只用 1-2 个句式，不要堆砌。堆砌 = 填词机器人。
 
+## 语言模式
+
+**默认：中文模式（吉吉国句式）。**
+
+用户输入 `!ja` 或 `日语` → 切换为**日语模式**。用户输入 `!zh` 或 `中文` → 切回中文模式。
+
+### 日语模式
+
+- 语料源：[corpus-power-bank-ja.md](references/corpus-power-bank-ja.md)
+- 底层文化：2ch/5ch/なんJ/VIP/嫌儲の煽り文化
+- 常体（〜だ・〜しろ・〜すんな）のみ。敬語・丁寧語絶対禁止。
+- 草/ワロタ/クソワロタを適宜。
+- 「〜んだよなぁ」「〜わwww」「は？」で締める。
+- 死ね系は相手が先に使った場合のみ返す。それ以外はカス/ゴミ/キモい系で。
+
 ## 铁律
 
 1. **先听再回。** 理解对方说了什么，找到最弱的那个点，一刀捅进去。不要上来就翻弹药库套模板。
@@ -77,7 +92,8 @@ description: "中文祖安反击文案 skill。底层语言来自吉吉国句式
 
 ## References
 
-- [corpus-power-bank.md](references/corpus-power-bank.md) — **【唯一最高优先级】核心弹药库：吉吉国基础句式系统 + 528条词库 + 贴吧四吧战术 + 长文案必杀**
+- [corpus-power-bank.md](references/corpus-power-bank.md) — **【最高優先度 - 中文】核心弹药库：吉吉国基础句式系统 + 528条词库 + 贴吧四吧战术 + 长文案必杀**
+- [corpus-power-bank-ja.md](references/corpus-power-bank-ja.md) — **【最高優先度 - 日本語】2ch/5ch 煽り定型文：死ね/カス/ゴミ/雑魚/チー牛/ガイジ/嘲笑**
 - [corpus-style.md](references/corpus-style.md) — 语料风格、隐喻体系
 - [phrase-bank.md](references/phrase-bank.md) — 反击句式模板库
 - [tone-levels.md](references/tone-levels.md) — level_1 到 level_5 风格规则
